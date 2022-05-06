@@ -1,0 +1,81 @@
+body {
+    background: #f7f7f7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    background-color: darkslategray;
+}
+
+.quem_somos{
+    background-color: lightgrey;
+    color: black;
+}
+
+.parceiros{
+    background-color: lightsteelblue;
+    color: black;
+}
+
+.margin{
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.bg-footer{
+    background-color: #000;
+    color: white;
+    margin: 0;
+}
+
+/*//////////////////////////OLD///////////////////////////////////////*/
+.photo{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;  
+}
+
+#title, .subtitle, .post_title {
+    color: #505050;
+
+}
+
+#title {
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+
+.post {
+    background: #fff;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+.post_image{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.contact_list{
+    list-style-type: none;
+    padding-left: 15px;
+}
+/*//////////////////////////OLD///////////////////////////////////////*/
